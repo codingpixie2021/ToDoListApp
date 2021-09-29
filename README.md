@@ -1,2 +1,2 @@
 # ToDoListApp
-Mini Projects JS - 2 
+Mini Projects JS - 1
